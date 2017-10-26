@@ -1,0 +1,15 @@
+{
+  "name": "ast-monitor",
+  "version": "0.0.1",
+  "description": "A simple Asterisk events Monitor through Asterisk Manager Interface. You can monitor Peers Status, T1/E1 boards status, Congestion or Fail Calls and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Conrad <douglas.conrad@opens.com.br> (https://github.com/douglasconrad)",
+  "license": "ISC",
+  "dependencies": {
+    "asterisk-manager": "^0.1.16",
+    "rx": "^4.1.0"
+  }
+}
