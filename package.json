@@ -18,7 +18,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/ast-monitor/-/ast-monitor-0.0.1.tgz",
+  "_resolved": "https://registry.npmjs.org/ast-monitor/-/ast-monitor-0.0.2.tgz",
   "_shasum": "3bf178257b3c5da1b5fa57cc7048c489ceec141e",
   "_spec": "ast-monitor@latest",
   "_where": "/home/douglas/Development/connector",
@@ -40,5 +40,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
