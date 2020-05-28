@@ -40,7 +40,6 @@ function Monitor(port, host, username, password, evts) {
 	}
 	obj.peers = peers;
 	obj.trunks = trunks;
-	console.log('Monitoring: %s', JSON.stringify(peers));
 
 	var ami = require('asterisk-manager')(
         port,

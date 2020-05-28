@@ -1,15 +1,44 @@
 {
-  "name": "ast-monitor",
-  "version": "0.0.1",
-  "description": "A simple Asterisk events Monitor through Asterisk Manager Interface. You can monitor Peers Status, T1/E1 boards status, Congestion or Fail Calls and more.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "ast-monitor@latest",
+  "_id": "ast-monitor@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-O/F4JXs8XaG1+lfMcEjEic7sFB4=",
+  "_location": "/ast-monitor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ast-monitor@latest",
+    "name": "ast-monitor",
+    "escapedName": "ast-monitor",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
-  "author": "Douglas Conrad <douglas.conrad@opens.com.br> (https://github.com/douglasconrad)",
-  "license": "ISC",
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ast-monitor/-/ast-monitor-0.0.1.tgz",
+  "_shasum": "3bf178257b3c5da1b5fa57cc7048c489ceec141e",
+  "_spec": "ast-monitor@latest",
+  "_where": "/home/douglas/Development/connector",
+  "author": {
+    "name": "Douglas Conrad",
+    "email": "douglas.conrad@opens.com.br",
+    "url": "https://github.com/douglasconrad"
+  },
+  "bundleDependencies": false,
   "dependencies": {
     "asterisk-manager": "^0.1.16",
     "rx": "^4.1.0"
-  }
+  },
+  "deprecated": false,
+  "description": "A simple Asterisk events Monitor through Asterisk Manager Interface. You can monitor Peers Status, T1/E1 boards status, Congestion or Fail Calls and more.",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ast-monitor",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
 }
