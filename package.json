@@ -1,6 +1,6 @@
 {
   "_from": "ast-monitor@latest",
-  "_id": "ast-monitor@0.0.2",
+  "_id": "ast-monitor@0.0.3",
   "_inBundle": false,
   "_integrity": "sha1-O/F4JXs8XaG1+lfMcEjEic7sFB4=",
   "_location": "/ast-monitor",
@@ -18,7 +18,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/ast-monitor/-/ast-monitor-0.0.2.tgz",
+  "_resolved": "https://registry.npmjs.org/ast-monitor/-/ast-monitor-0.0.3.tgz",
   "_shasum": "3bf178257b3c5da1b5fa57cc7048c489ceec141e",
   "_spec": "ast-monitor@latest",
   "_where": "/home/douglas/Development/connector",
@@ -40,5 +40,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
